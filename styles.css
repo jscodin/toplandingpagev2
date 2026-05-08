@@ -6,7 +6,21 @@ body {
   font-family: roboto, sans-serif, Helvetica, "Times New Roman";
 }
 
-.header-container {
+.hero-container {
   background-color: #1f2937;
   color: white;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 900px;
+}
+
+.hero-subtext {
+  font-size: 18px;
+}
+
+.hero-cta {
+  color: #e5e7eb;
+  background-color: #3882f6;
 }
